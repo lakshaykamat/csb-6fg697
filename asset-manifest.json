@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lakshaykamat.github.io/csb-6fg697/static/css/main.e32765a5.chunk.css",
+    "main.js": "https://lakshaykamat.github.io/csb-6fg697/static/js/main.cc581169.chunk.js",
+    "main.js.map": "https://lakshaykamat.github.io/csb-6fg697/static/js/main.cc581169.chunk.js.map",
+    "runtime-main.js": "https://lakshaykamat.github.io/csb-6fg697/static/js/runtime-main.432f368f.js",
+    "runtime-main.js.map": "https://lakshaykamat.github.io/csb-6fg697/static/js/runtime-main.432f368f.js.map",
+    "static/js/2.cebfc9fa.chunk.js": "https://lakshaykamat.github.io/csb-6fg697/static/js/2.cebfc9fa.chunk.js",
+    "static/js/2.cebfc9fa.chunk.js.map": "https://lakshaykamat.github.io/csb-6fg697/static/js/2.cebfc9fa.chunk.js.map",
+    "index.html": "https://lakshaykamat.github.io/csb-6fg697/index.html",
+    "static/css/main.e32765a5.chunk.css.map": "https://lakshaykamat.github.io/csb-6fg697/static/css/main.e32765a5.chunk.css.map",
+    "static/js/2.cebfc9fa.chunk.js.LICENSE.txt": "https://lakshaykamat.github.io/csb-6fg697/static/js/2.cebfc9fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.432f368f.js",
+    "static/js/2.cebfc9fa.chunk.js",
+    "static/css/main.e32765a5.chunk.css",
+    "static/js/main.cc581169.chunk.js"
+  ]
+}
